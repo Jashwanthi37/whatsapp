@@ -1,0 +1,250 @@
+.contact1{
+    width: 290px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:130px;
+}
+.cd,.cd1,.cd2,.cd3,.cd4,.cd5,.cd6,.cd7,.cd8,.cd9{
+    border-radius:50%;
+}
+.n1,.n2,.n3,.n4,.n5,.n6,.n7,.n8,.n9,.n10{
+    position: absolute;
+    left:55px;
+    top:5px;
+    font-weight: bold;
+    color: black;
+}
+.t1,.t2,.t3,.t4,.t5,.t6,.t7,.t8,.t9,.t10{
+    position: absolute;
+    left:55px;
+    top:28px;
+    font-weight: lighter;
+    color: black;
+
+}
+.d1,.d2,.d3,.d4,.d5{
+    position: absolute;
+    left:250px;
+    top:5px;
+    color: black;
+}
+.d6,.d7,.d8,.d9,.d10{
+    position: absolute;
+    left:230px;
+    top:5px;
+    color: black;
+}
+.contact2{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:190px;
+
+}
+
+.contact3{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:248px;
+
+}
+
+.contact4{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:305px;
+
+}
+
+.contact5{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:360px;
+
+}
+
+.contact6{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:420px;
+}
+.contact7{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:480px;
+
+}
+
+.contact8{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:540px;
+
+}
+.contact9{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:600px;
+
+}
+
+.contact10{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:660px;
+
+}
+
+.contact11{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:720px;
+}
+.n11,.n12,.n13,.n14,.n15,.n16,.n17,.n18,.n19,.n20{
+    position: absolute;
+    left:55px;
+    top:5px;
+    font-weight: bold;
+    color: black;
+}
+.t11,.t12,.t13,.t14,.t15,.t16,.t17,.t18,.t19,.t20{
+    position: absolute;
+    left:55px;
+    top:28px;
+    font-weight: lighter;
+    color: black;
+
+}
+.d11,.d12,.d13,.d14,.d15,.d16,.d17,.d18,.d19,.d20{
+    position: absolute;
+    left:220px;
+    top:5px;
+    color: black;
+}
+.contact12{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:780px;
+
+}
+.cd11{
+    border-radius:50%;
+}
+.contact13{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:840px;
+
+}
+.cd12{
+    border-radius:50%;
+}
+.contact14{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:900px;
+
+}
+.cd13{
+    border-radius:50%;
+}
+.contact15{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:960px;
+
+}
+.cd14{
+    border-radius:50%;
+}
+.contact16{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:1020px;
+}
+.cd15{
+    border-radius:50%;
+}
+.contact17{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:1080px;
+
+}
+.cd16,.cd17,.cd18,.cdl9{
+    border-radius:50%;
+}
+.n17,.n18,.n19,.n20{
+    position: absolute;
+    left:55px;
+    top:5px;
+    font-weight: bold;
+}
+.t17,.t18,.t19,.t20{
+    position: absolute;
+    left:55px;
+    top:28px;
+    font-weight: lighter;
+
+}
+.d17,.d18,.d19,.d20{
+    position: absolute;
+    left:220px;
+    top:5px;
+}
+.contact18{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:1140px;
+
+}
+.contact19{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:1200px;
+
+}
+.contact20{
+    width: 297px;
+    height: 50px;
+    border: solid 2px white;
+    position: absolute;
+    top:1260px;
+
+}
